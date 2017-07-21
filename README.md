@@ -13,6 +13,6 @@ This is my personal project. This a hybrid mobile application developed using Io
 <hr>
 <h1>Running the application</h1>
 <li>Open command prompt. Go to project directory </li>
-<li><u>Viewing the application in browser</u></br>Type the command => ionic serve
-<li><u>to view the app on simulated mobile platforms and screen sizes</u></br>Type the command => ionic serve --l</li>
+<li><u>Viewing the application in browser</u></br>&nbsp;Type the command => ionic serve
+<li><u>to view the app on simulated mobile platforms and screen sizes</u></br>&nbsp;Type the command => ionic serve --l</li>
 
