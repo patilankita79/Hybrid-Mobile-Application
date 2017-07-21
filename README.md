@@ -1,6 +1,8 @@
 # Hybrid-Mobile-Application
 This is my personal project. This a hybrid mobile application developed using Ionic 2 framework. This application is developed by referring online videos and documentation
 
+<br/>
+<b> Note: </b> Mobile application for android as well as iOS
 <hr>
 <h3>Technology Stack :</h3>
 <li>Framework: Ionic 2</li>
@@ -16,4 +18,8 @@ This is my personal project. This a hybrid mobile application developed using Io
 <li>Open command prompt. Go to project directory </li>
 <li><u>Viewing the application in browser</u></br>&nbsp;&nbsp;&nbsp;&nbsp;Type the command => ionic serve
 <li><u>to view the app on simulated mobile platforms and screen sizes</u></br>&nbsp;&nbsp;&nbsp;&nbsp;Type the command => ionic serve --l</li>
+
+<hr>
+<b>For android, generate apk</b> 
+<li> Type the command => ionic cordova build android </li>
 
