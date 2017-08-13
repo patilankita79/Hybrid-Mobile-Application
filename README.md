@@ -1,4 +1,4 @@
-# Hybrid-Mobile-Applications - 
+# Hybrid Mobile Applications
 <li><a href ="https://github.com/patilankita79/Hybrid-Mobile-Applications/tree/master/ionreddit"> Reddit Application </a></li>
 <li> <a href ="https://github.com/patilankita79/WeatherApp">Weather Application</a>
 </li>
