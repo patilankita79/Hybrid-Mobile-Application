@@ -1,3 +1,4 @@
+<h1>Reddit Application</h1>
 <hr>
 <h3>Description :</h3>
 <p> <b>Name of the application: </b>IonReddit <br> 
