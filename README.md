@@ -9,6 +9,7 @@
 <li>Languages: HTML5, CSS3, TypeScript </li>
 
 <hr>
+<h1>IonReddit</h1>
 <h3>Application interface for iOS and Android platforms</h3>
 <img src="https://github.com/patilankita79/HybridMobileApplications/blob/master/Screenshots_IonReddit/Screenshot%202017-09-14%2011.58.03.png" />
 <img src="https://github.com/patilankita79/HybridMobileApplications/blob/master/Screenshots_IonReddit/Screenshot%202017-09-14%2011.58.18.png" />
