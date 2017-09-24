@@ -1,4 +1,5 @@
 # Hybrid Mobile Applications
+Following are the links to my repositories which are specific to IONIC framework
 <li><a href ="https://github.com/patilankita79/Hybrid-Mobile-Applications/tree/master/ionreddit"> Reddit Application </a></li>
 <li> <a href ="https://github.com/patilankita79/WeatherApp">Weather Application</a>
 </li>
